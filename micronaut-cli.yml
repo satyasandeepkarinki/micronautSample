@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.sample
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, config-kubernetes, data, data-jpa, gradle, hamcrest, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, junit, kubernetes, liquibase, log4j2, lombok, management, micrometer, micrometer-prometheus, micronaut-build, mockito, netty-server, openapi, postgres, readme, security, security-annotations, security-jwt, shade, testcontainers, yaml]

@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: learning
+  config-client:
+    enabled: true
